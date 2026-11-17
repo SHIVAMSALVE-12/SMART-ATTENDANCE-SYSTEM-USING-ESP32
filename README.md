@@ -146,7 +146,7 @@ The project is developed as a working breadboard-based prototype using ESP32-S3,
 
 ---
 
-**Project Name:** Smart Attendance IoT
+**Project Name:** Smart Attendance System Using ESP32 
 **Platform:** ESP32-S3 and Blynk IoT Cloud
 
 ## 👨‍💻 Authors
