@@ -148,3 +148,24 @@ The project is developed as a working breadboard-based prototype using ESP32-S3,
 
 **Project Name:** Smart Attendance IoT
 **Platform:** ESP32-S3 and Blynk IoT Cloud
+
+## 👨‍💻 Authors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/itsmechinmay">
+        <img src="https://github.com/itsmechinmay.png" width="100px;" alt="Chinmay"/>
+        <br />
+        <sub><b>Chinmay Lokhande</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SHIVAMSALVE-12">
+        <img src="https://github.com/SHIVAMSALVE-12.png" width="100px;" alt="Shivam Salve"/>
+        <br />
+        <sub><b>Shivam Salve</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
